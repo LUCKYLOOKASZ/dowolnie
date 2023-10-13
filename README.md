@@ -3,3 +3,5 @@
 ## Michałek minecraft server crafter
 ## yoo
 ## siemano normalnie tak o dodawane z ciąpoąga 
+
+## co jest grane
