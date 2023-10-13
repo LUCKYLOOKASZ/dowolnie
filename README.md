@@ -5,3 +5,5 @@
 ## siemano normalnie tak o dodawane z ciąpoąga 
 
 ## co jest grane
+
+robie teścik nie wiem co sie dzieje
